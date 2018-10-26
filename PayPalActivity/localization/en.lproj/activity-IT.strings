@@ -1,0 +1,8 @@
+"activity.details.debit.fee.text" = "You were charged %1$@ and you paid a %2$@ fee.";
+"activity.details.moneyRequestCancel.text" = "The request for amount %1$@ is canceled";
+"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ requested %1$@";
+"activity.details.order.echeck.goodsAndServices.credit.text" = "eCheck estimated completion date is %1$@. Do not ship items until you receive the payment.";
+"activity.details.order.echeck.goodsAndServices.debit.text" = "The eCheque estimated completion date is %1$@. We advise sellers to not ship items until they receive payment.";
+"activity.details.payafterdelivery.failure-alert.text" = "Something seems to have gone wrong. Please wait a moment, then give it another try.";
+"activity.details.saythanks.firstTimeSayThanks" = "Great, we'll send them your thank you note.";
+"activity.details.saythanks.saythanks.button.title" = "Send a thank you note";

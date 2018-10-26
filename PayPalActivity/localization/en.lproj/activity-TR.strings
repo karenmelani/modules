@@ -1,0 +1,6 @@
+"activity.details.requestMoney.cancelRequest.alertMessageRequestee" = "We’ll email %1$@ to let them know the request was canceled.";
+"activity.details.requestMoney.cancelRequest.alertMessageRequester" = "We’ll email %1$@ to let them know you declined the money request.";
+"activity.filter.segmentedControl.in" = "Money Received";
+"activity.filter.segmentedControl.out" = "Money Sent";
+"activity.list.noTransactions.systemErrorTitle.label.text" = "Please try again";
+"activity.list.noTransactionsInDateRange.detail.label.text" = "Want to search for a transaction with another date range?";

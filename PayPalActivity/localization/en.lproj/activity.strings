@@ -1,0 +1,248 @@
+/* 
+  activity.strings
+  consumervenice
+
+  Created by Miluski, Dane on 4/15/15.
+  Copyright (c) 2015 PayPal. All rights reserved.
+*/
+
+// Activity redesign
+"activity.details.section.status.counterParty.sender.header" = "From";
+"activity.details.section.status.counterParty.recipient.header" = "To";
+"activity.details.section.status.purpose.header" = "For";
+"activity.details.section.status.purpose.personal" = "Friends & Family";
+"activity.details.section.status.purpose.service" = "Goods & Services";
+"activity.details.section.status.fundingSources.issuance.details" = "Through %@";
+"activity.details.section.status.fundingSources.generic.header" = "Using";
+"activity.details.section.status.fundingSources.debit.header" = "From";
+"activity.details.section.status.fundingSources.credit.header" = "To";
+"activity.details.section.status.grossAmount.title" = "Amount";
+"activity.details.section.status.feeAmount.title" = "Fee";
+"activity.details.section.status.totalAmount.title" = "Total";
+
+"activity.details.section.contact.header" = "CONTACT";
+"activity.details.section.transactionID.header" = "TRANSACTION ID";
+
+"activity.details.section.history.header" = "HISTORY";
+"activity.details.section.history.action" = "See your history";
+"activity.details.section.history.empty.message" = "There are no recent transactions";
+
+"activity.details.section.shipping.sender.header" = "OK TO SHIP";
+"activity.details.section.shipping.recipient.header" = "SHIPPING INFO";
+
+"activity.details.section.purchaseProtection.header" = "PURCHASE PROTECTION";
+"activity.details.section.purchaseProtection.message" = "If there's a problem, make sure to contact the seller through PayPal by %@. You may be eligible for purchase protection.";
+
+"activity.details.ETA.header.text" = "YOUR REFUND IS ON ITS WAY";
+"activity.details.ETACompleted.header.text" = "REFUNDED";
+"activity.ETA.estimatedrefund.text" = "Estimated arrival: %1$@";
+
+"activity.details.section.purchaseDetails.header" = "PURCHASE DETAILS";
+"activity.details.section.purchaseDetails.subTotal.title" = "AMOUNT";
+"activity.details.section.purchaseDetails.discount.title" = "DISCOUNT";
+"activity.details.section.purchaseDetails.shipping.title" = "SHIPPING";
+"activity.details.section.purchaseDetails.tax.title" = "TAX";
+"activity.details.section.purchaseDetails.fee.title" = "FEE";
+"activity.details.section.purchaseDetails.total.title" = "TOTAL";
+
+"activity.details.section.purchaseDetails.multipleItems.title" = "%1$@ (Qty %2$@)";
+
+"activity.details.invoiceID.text" = "Invoice ID %1$@";
+"activity.details.transactionID.text" = "Transaction ID %1$@";
+"activity.details.transactionMadeAt.text" = "Transaction made at %1$@ ";
+
+"activity.details.debit.fee.text" = "You were charged %1$@ after a %2$@ fee.";
+"activity.details.credit.fee.text" = "You paid a %1$@ fee.";
+
+"activity.details.moneySent.debit.text" = "You sent %1$@ to %2$@";
+"activity.details.moneyReceived.credit.text" = "You received %1$@ from %2$@";
+"activity.details.moneyRefunded.credit.text" = "You were refunded %1$@ from %2$@";
+"activity.details.refundETA.credit.text" = "You are receiving a refund of %1$@ from %2$@";
+"activity.details.moneyRefunded.debit.text" = "You refunded %1$@ to %2$@";
+"activity.details.moneyTransfered.debit.text" = "You transferred %1$@ to %2$@";
+"activity.details.moneyTransfered.credit.text" = "You transferred %1$@ from your %2$@ balance";
+"activity.details.moneyTransfered.credit.autoTopUp.text" = "%1$@ automatic top up from %2$@";
+"activity.details.moneyAdded.credit.text" = "You added %1$@ through PayPal Cash Load";
+
+"activity.details.cashWithdrawal.text" = "You withdrew %1$@ at %2$@";
+"activity.details.cashWithdrawal.anonymous.text" = "You withdrew %1$@";
+"activity.details.header.issuance.text" = "%1$@ using %2$@";
+
+"activity.details.holdingBalanceTransfer.debit.text" = "You transferred %1$@ to %2$@";
+"activity.details.holdingBalanceTransfer.credit.text" = "You transferred %1$@ from %2$@";
+
+"activity.details.invoice.credit.text" = "You sent an invoice for %1$@ to %2$@";
+"activity.details.invoice.debit.text" = "%2$@ sent an invoice for %1$@";
+"activity.details.payment.debit.text" = "You paid %1$@ to %2$@";
+"activity.details.payment.debit.cashback.text" = "You paid %1$@ to %2$@ and got %3$@ in cash";
+"activity.details.order.debit.text" = "%1$@ sent %2$@";
+"activity.details.order.credit.text" = "%2$@ received order for %1$@";
+"activity.details.payment.withdrawal.text" = "Cash Withdrawal of %1$@ at %2$@";
+// Delayed Payment
+"activity.details.order.payAfterDelivery.text" = "You placed an order with %2$@ for %1$@";
+"activity.details.order.payAfterDelivery.details.text" = "Your bank will be debited on %@. If you're ready to pay, feel free to pay now.";
+"activity.details.order.echeck.personal.text" = "eCheck estimated completion date is %1$@";
+"activity.details.order.echeck.goodsAndServices.debit.text" = "eCheck estimated completion date is %1$@. We advise merchants not to ship until they receive payment.";
+"activity.details.order.echeck.goodsAndServices.credit.text" = "eCheck estimated completion date is %1$@. Do not ship items until you receive payment.";
+
+"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ is requesting %1$@";
+"activity.details.moneyRequestRequester.requestSent.text" = "You requested %1$@ from %2$@";
+
+"activity.details.moneyRequestRequester.requestCancelled.text" = "You canceled your request for %1$@ from %2$@";
+"activity.details.moneyRequestRequestee.requestDeclined.text" = "You declined %1$@ request for %2$@";
+"activity.details.moneyRequestCancel.text" = "The request for %1$@ is canceled";
+"activity.details.currencyTransfer.text" = "Currency conversion to %1$@";
+
+"activity.details.transactionDateTitle.text" = "Date";
+"activity.details.transactionStatusTitle.text" = "Transaction type";
+"activity.details.transactionNotesTitle.text" = "Note";
+
+"activity.details.funding.from.text" = "From";
+"activity.details.funding.to.text" = "To";
+"activity.details.shippingAddress.title" = "Ship to";
+"activity.details.purchaseDetails.title" = "PURCHASE DETAILS";
+"activity.details.amount.header.text" = "DETAILS";
+
+"activity.details.purchaseItemName.text" = "%1$@ (Qty %2$@)";
+"activity.details.feeAmount.title" = "FEE";
+"activity.details.totalAmount.title" = "TOTAL";
+
+"activity.details.subTotal.title" = "AMOUNT";
+"activity.details.discount.title" = "DISCOUNT";
+"activity.details.shipping.title" = "SHIPPING";
+"activity.details.withdrawalSubTotal.title" = "WITHDRAWAL AMOUNT";
+"activity.details.tax.title" = "TAX";
+"activity.details.purchaseTotal.title" = "PURCHASE TOTAL";
+"activity.details.counterPartyInfo.text" = "YOU AND %@";
+"activity.details.counterPartyContact.text" = "Contact %@";
+"activity.details.counterPartySendMoney.text" = "Send money";
+"activity.details.counterPartyContact.EmailAddressText" = "Email %@";
+"activity.details.counterPartyContact.Cancel" = "Cancel";
+"activity.details.counterPartyHistory.text" = "See your history";
+"activity.details.funding.source.type.balance" = "PayPal Balance";
+"activity.details.contactSeller.noEmail.errorTitle" = "It looks like email isn’t set up on your phone yet";
+"activity.details.contactSeller.noEmail.errorMessage" = "Set it up in your device settings first. Or contact the seller through PayPal on our website.";
+"activity.details.contactSeller.noEmail.errorOk" = "Ok";
+"activity.details.requestMoney.cancelRequest.alertTitleRequester" = "Decline this request?";
+"activity.details.requestMoney.cancelRequest.alertTitleREquestee" = "Cancel your request?";
+"activity.details.requestMoney.cancelRequest.alertMessageRequestee" = "We’ll email %1$@ letting them know the request was canceled.";
+"activity.details.requestMoney.cancelRequest.alertMessageRequester" = "We’ll email %1$@ letting them know you declined the money request.";
+
+"activity.details.requestMoney.declineRequest.no" = "No";
+"activity.details.requestMoney.declineRequest.yes" = "Yes";
+
+"activity.details.invoice.action.visitwebsite" = "You can manage invoices on our <a href='%1$@'>website.</a>";
+
+// Shipping Info
+"activity.details.shipping.header.title" = "Track your shipment";
+"activity.details.shipping.status.text" = "Status: %@";
+"activity.details.shipping.carrier.text" = "Sent by %@";
+
+// OFAC
+"activity.details.ofac.availableDate" = "Available Date: %@";
+
+//Say Thanks
+"activity.details.saythanks.saythanks.button.title" = "Say Thanks";
+"activity.details.saythanks.saidThanksForYou" = "We sent your thank you note.";
+"activity.details.saythanks.firstTimeSayThanks" = "Great! We'll tell them you said thanks.";
+"activity.details.saythanks.youSaidThanks" = "You said, “thanks”!";
+"activity.details.saythanks.receivedThanks" = "%@ says, Thanks!";
+
+// Pay After Delivery
+"activity.details.payafterdelivery.alert.title" = "Pay Now";
+"activity.details.payafterdelivery.alert.text" = "Ready to settle up? Tap Pay and we’ll charge your bank account.";
+"activity.details.payafterdelivery.alert.cancel" = "Cancel";
+"activity.details.payafterdelivery.alert.pay" = "Pay";
+
+"activity.details.payafterdelivery.success-alert.title" = "Thanks!";
+"activity.details.payafterdelivery.success-alert.text" = "You’re all paid up. It may take your bank %1$@-%2$@ days to complete the payment.";
+"activity.details.payafterdelivery.success-alert.button.ok" = "OK";
+
+"activity.details.payafterdelivery.failure-alert.title" = "Sorry about that";
+"activity.details.payafterdelivery.failure-alert.text" = "Looks like something went wrong on our end. Wait a second and give it another try.";
+"activity.details.payafterdelivery.failure-alert.button.cancel" = "Cancel";
+"activity.details.payafterdelivery.failure-alert.button.try-again" = "Try Again";
+
+//Purchase Protection Date
+"activity.details.purchaseProtectionDateBefore.text" = "If there's a problem, make sure to contact the seller through PayPal by %@. You may be eligible for purchase protection.";
+
+//Gifting
+"activity.details.gifting.gift.label" = "Gift";
+"activity.details.gifting.gifting.description.label" = "%@ sent you a gift";
+
+// Cross Currency
+"activity.details.crosscurrency.declineAlertMessage" = "Are you sure you want to decline this payment?";
+"activity.details.crosscurrency.paymentDeclinedAlertMessage" = "Payment declined";
+"activity.details.crosscurrency.optionsTitle" = "Accept this payment in:";
+"activity.details.crosscurrency.paymentAcceptedAlertTitle" = "Payment accepted";
+"activity.details.crosscurrency.paymentAcceptedAlertMessage" = "You'll see it in your balance soon.";
+"activity.details.crosscurrency.optionsCancel" = "Cancel";
+
+// Fee descriptor
+"activity.details.feeDescriptor.header"="Fee";
+"activity.details.feeDescriptor.domesticATMWithdrawal.title"="ATM Domestic Withdrawal Fee";
+"activity.details.feeDescriptor.internationalATMWithdrawal.title"="ATM International Withdrawal Fee";
+"activity.details.feeDescriptor.domesticOverTheCounterWithdrawal.title"="Over the Counter Withdrawal Fee";
+"activity.details.feeDescriptor.internationalOverTtheCounterWithdrawal.title"="Over the Counter Withdrawal Fee";
+"activity.details.feeDescriptor.internationalPurchase.title"="Foreign Transaction Fee";
+
+// eg: Master Card x-5566
+"activity.details.funding.source.type.card" = "%1$@ (%2$@)";
+"activity.details.tryAgain.button" = "Try Again";
+"activity.summaryList.titleBar.title" = "Activity";
+"activity.navigationBar.title.availableBalance" = "PayPal Balance: %1$@";
+"activity.summaryList.didTapFilterButton.title" = "Filter";
+"activity.filters.titleBar.title" = "Filter by date";
+"activity.filters.presetFilters.name" = "Past %1$@ days";
+"activity.filters.customFilter.title" = "CHOOSE A DATE RANGE";
+"activity.filters.customFilter.fromDatetitle" = "From";
+"activity.filters.customFilter.toDatetitle" = "To";
+"activity.filters.didTapCancel.cancelButton" = "Cancel";
+"activity.filters.didTapDone.doneButton" = "Show";
+"activity.activityItem.unknownContactContact" = "Unknown";
+"activity.filters.customFromDate.futureDateError.Ok" = "Ok";
+"activity.filters.customFromDate.futureDateError.text" = "Please check the selected dates.";
+
+"activity.filter.segmentedControl.all" = "All";
+"activity.filter.segmentedControl.in" = "Money In";
+"activity.filter.segmentedControl.out" = "Money Out";
+
+"activity.section.group.pending" = "PENDING";
+"activity.section.group.complete" = "COMPLETED";
+
+"activity.similarTransactions.header.text" = "You and %@";
+
+"activity.list.noTransactions.title.label.text" = "All your activity, all in one place";
+"activity.list.noTransactions.details.label.text" = "Quickly find all your payment info, respond to money requests from friends, send someone money again, and more.";
+"activity.list.noTransactionsInDateRange.title.label.text" = "We didn't find any transactions";
+"activity.list.noTransactionsInDateRange.detail.label.text" = "Want to search for transaction with another date range?";
+"activity.list.noTransactions.systemErrorTitle.label.text" = "Let’s try that again";
+"activity.list.noTransactions.systemErrorDetails.label.text" = "Looks like something went wrong on our end. Please try again in a moment.";
+
+//Xoom
+"activity.list.xoomTransactions.title.label.text" = "See your Xoom activity";
+"activity.list.xoomPopup.title.label.text" = "Go to Xoom";
+"activity.list.xoomPopup.message.label.text" = "Log into your Xoom account to see all of your transactions.";
+"activity.list.xoomPopup.gotoxoom.title" = "Go to Xoom";
+"activity.list.xoomPopup.cancel.title" = "Cancel";
+
+// eBay Grey Markets
+"activity.details.greyMarkets.contactSeller.text" = "NEED TO CONTACT SELLER?";
+"activity.details.greyMarkets.contactBuyer.text" = "NEED TO CONTACT BUYER?";
+"activity.details.greyMarkets.sellerContactInformation.text" = "Log in to your eBay account and go to selling history.";
+"activity.details.greyMarkets.buyerContactInformation.text" = "Log in to your eBay account and go to purchase history.";
+
+// Money Pools
+"activity.details.moneyPools.moneySent.text" = "You sent %1$@ to %2$@ for %3$@";
+"activity.details.moneyPools.moneyReceived.text" = "You received %1$@ from %2$@ for %3$@";
+
+//Check Capture
+"activity.details.checkCapture.completed.text" = "You cashed a check for %1$@";
+"activity.details.checkCapture.denied.text" = "Denied check cash for %1$@";
+"activity.details.checkCapture.failed.text" = "Failed check cash for %1$@";
+"activity.details.ingoID.text" = "Ingo Transaction ID %1$@";
+"activity.details.counterPartyCall.text" = "Call %@";
+
+//Early Refund
+"activity.details.earlyRefund.bank" = "You requested the refund before the %@ was debited from your bank account.";
+"activity.details.earlyRefund.full" = "The payment was refunded before it was debited from your account.";
